@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JAI GEORGE\Downloads\Grocery App\Grocery App\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\JAI GEORGE\Downloads\Grocery App\Grocery App\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_e22ea900f80a7ae0853d40114c03b15431b62435.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\JAI GEORGE\Downloads\Grocery App\Grocery App\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_9ade5ec4e43d9f0dedde29f0e205b2f48594e1c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAI GEORGE\Downloads\Grocery App\Grocery App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\JAI GEORGE\Downloads\Grocery App\Grocery App\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_5d79ae5b9d55462133b3fdec7bb33cc9c26f156c.jar" />
+    </item>
+    <item
+        jar="C:\Users\JAI GEORGE\Downloads\Grocery App\Grocery App\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\JAI GEORGE\Downloads\Grocery App\Grocery App\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_c00ae93a5df5cee14333a41a1352f74fd4e46929.jar" />
+    </item>
+
+</items>

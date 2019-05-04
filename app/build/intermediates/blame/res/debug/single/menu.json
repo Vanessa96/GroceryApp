@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dashboard.xml",
+        "source": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\src\\main\\res\\menu\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_update_delete.xml",
+        "source": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\src\\main\\res\\menu\\add_update_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\dashboard.xml",
+        "source": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\src\\main\\res\\menu\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_to_cart.xml",
+        "source": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\src\\main\\res\\menu\\add_to_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_update_delete.xml",
+        "source": "C:\\Users\\Advaith\\AndroidStudioProjects\\Grocery App\\app\\src\\main\\res\\menu\\add_update_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_to_cart.xml",
+        "source": "C:\\Users\\JAI GEORGE\\Downloads\\Grocery App\\Grocery App\\app\\src\\main\\res\\menu\\add_to_cart.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="header_color">#F0FFFF</color>
+    <!-- <color  name="background"></color> -->
+    <color name="button_normal">#008080</color>
+    <color name="button_press">#6B8E23</color>
+
+</resources>

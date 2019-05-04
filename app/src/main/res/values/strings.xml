@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grocery App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_add_update_delete">AddUpdateDeleteActivity</string>
+    <string name="title_activity_add_to_cart">AddToCartActivity</string>
+
+    <string-array name="location_array">
+
+        <!-- <item>Mumbai</item> -->
+        <item>Navi Mumbai</item>
+        <!-- <item>Pune</item> -->
+        <!-- <item>Nagpur</item> -->
+
+    </string-array>
+    <string-array name="area_array">
+        <item>Nerul</item>
+        <item>Sea wood</item>
+        <item>Belapur</item>
+        <item>Kharghar</item>
+        <item>Panvel</item>
+    </string-array>
+    <string-array name="shop_array">
+        <item>Test shop 1</item>
+        <item>Test shop 2</item>
+        <item>Test shop 3</item>
+        <item>Test shop 4</item>
+    </string-array>
+
+    <string name="title_activity_add_shop">AddShopActivity</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_online_pay">OnlinePayActivity</string>
+    <string name="title_activity_customer_detail">CustomerDetailActivity</string>
+
+</resources>
